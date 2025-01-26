@@ -186,7 +186,6 @@ nav a:hover {
 
 
 .saldo-container {
-  background-image: url('C:/Users/ASUS/sims-ppob-bellamega1/src/assets/BackgroundSaldo.png');
   background-size: cover; /* Agar gambar mengisi seluruh div */
   background-position: center; /* Agar gambar tetap di tengah */
   padding: 20px; /* Opsional, memberi ruang di dalam container */
